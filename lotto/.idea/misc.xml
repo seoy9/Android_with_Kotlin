@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/work/dalc/lotto/app/src/main/res/layout/activity_absolute.xml" value="0.12284701114488349" />
+        <entry key="..\:/work/dalc/lotto/app/src/main/res/layout/activity_constarint_layout.xml" value="0.2" />
+        <entry key="..\:/work/dalc/lotto/app/src/main/res/layout/activity_constellation.xml" value="0.12129629629629629" />
+        <entry key="..\:/work/dalc/lotto/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/work/dalc/lotto/app/src/main/res/layout/activity_name.xml" value="0.25364583333333335" />
+        <entry key="..\:/work/dalc/lotto/app/src/main/res/layout/activity_result.xml" value="0.25364583333333335" />
+        <entry key="..\:/work/dalc/lotto/app/src/main/res/layout/activity_test.xml" value="0.2477355072463768" />
+        <entry key="..\:/work/dalc/lotto/app/src/main/res/layout/inear_layout_verical.xml" value="0.12284701114488349" />
+        <entry key="..\:/work/dalc/lotto/app/src/main/res/layout/linear_layout_gravity.xml" value="0.12284701114488349" />
+        <entry key="..\:/work/dalc/lotto/app/src/main/res/layout/linear_layout_horizontal.xml" value="0.12284701114488349" />
+        <entry key="..\:/work/dalc/lotto/app/src/main/res/layout/linear_layout_layout_gravity.xml" value="0.12284701114488349" />
+        <entry key="..\:/work/dalc/lotto/app/src/main/res/layout/linear_layout_margin.xml" value="0.12284701114488349" />
+        <entry key="..\:/work/dalc/lotto/app/src/main/res/layout/linear_layout_nested.xml" value="0.12284701114488349" />
+        <entry key="..\:/work/dalc/lotto/app/src/main/res/layout/linear_layout_padding.xml" value="0.12284701114488349" />
+        <entry key="..\:/work/dalc/lotto/app/src/main/res/layout/linear_layout_weight.xml" value="0.12284701114488349" />
+        <entry key="..\:/work/dalc/lotto/app/src/main/res/layout/relative_layout_other.xml" value="0.1" />
+        <entry key="..\:/work/dalc/lotto/app/src/main/res/layout/relative_layout_parent.xml" value="0.25364583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
