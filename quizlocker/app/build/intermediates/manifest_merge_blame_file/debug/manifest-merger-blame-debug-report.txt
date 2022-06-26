@@ -37,12 +37,12 @@
 25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 25-->[androidx.core:core:1.7.0] C:\Users\ghfdw\.gradle\caches\transforms-3\05817a5203b51b6b896fddf28bf56056\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 26        android:debuggable="true"
-27        android:icon="@mipmap/ic_launcher"
-27-->C:\work\dalc\quizlocker\app\src\main\AndroidManifest.xml:20:9-43
+27        android:icon="@drawable/padlock"
+27-->C:\work\dalc\quizlocker\app\src\main\AndroidManifest.xml:20:9-41
 28        android:label="@string/app_name"
 28-->C:\work\dalc\quizlocker\app\src\main\AndroidManifest.xml:21:9-41
-29        android:roundIcon="@mipmap/ic_launcher_round"
-29-->C:\work\dalc\quizlocker\app\src\main\AndroidManifest.xml:22:9-54
+29        android:roundIcon="@drawable/padlock"
+29-->C:\work\dalc\quizlocker\app\src\main\AndroidManifest.xml:22:9-46
 30        android:supportsRtl="true"
 30-->C:\work\dalc\quizlocker\app\src\main\AndroidManifest.xml:23:9-35
 31        android:testOnly="true"
